@@ -4,7 +4,7 @@ A place to store files for the AMP project
 
 
 https://rileyrichter.github.io/amp/1_2 corrugated.png
-1-2 7-8 corrugated.png
+https://rileyrichter.github.io/amp/1-2%207-8%20corrugated.png
 2 ssr.png
 4 rib.png
 7_8 corrugated.png
