@@ -3,7 +3,7 @@
 A place to store files for the AMP project
 
 
-https://rileyrichter.github.io/amp/1_2 corrugated.png
+<a href="https://rileyrichter.github.io/amp/1_2 corrugated.png">1_2 corrugated</a></br>
 https://rileyrichter.github.io/amp/1-2%207-8%20corrugated.png
 2 ssr.png
 4 rib.png
