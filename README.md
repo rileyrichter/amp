@@ -20,13 +20,13 @@ A place to store files for the AMP project
 - double-lock zee-lock.png
 - fabrib.png
 - flush reveal wall.png
-- flush reveal.png
+- flush reveal.png **
 - fluted fascia.png
 - fw-1025 fw-12.png
 - hefti-rib.png
 - high snap on.png
 - hr-16.png
-- hs8 hs12.png
+- hs8 hs12.png **
 - hwp.png
 - ip snap 3.png
 - l-panel.png
