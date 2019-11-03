@@ -26,7 +26,7 @@ A place to store files for the AMP project
 - hefti-rib.png
 - high snap on.png
 - hr-16.png
-- hs8 hs12.png 
+- hs8 hs12.png
 - hwp.png
 - ip snap 3.png
 - l-panel.png
