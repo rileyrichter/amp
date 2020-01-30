@@ -7,7 +7,7 @@ A place to store files for the AMP project
 ### Coping
 
 - [https://rileyrichter.github.io/amp/custom-coping/Embedded-Edge-with-Flat-Drip.jpg](https://rileyrichter.github.io/amp/custom-coping/Embedded-Edge-with-Flat-Drip.jpg)
-- https://rileyrichter.github.io/amp/custom-coping/Embedded-Edge.jpg
+- [https://rileyrichter.github.io/amp/custom-coping/Embedded-Edge.jpg](https://rileyrichter.github.io/amp/custom-coping/Embedded-Edge.jpg)
 - https://rileyrichter.github.io/amp/custom-coping/Parapet-Cap-Coping-12_Max.jpg
 - https://rileyrichter.github.io/amp/custom-coping/Parapet-Cap-Coping-18_Max.jpg
 - https://rileyrichter.github.io/amp/custom-coping/Parapet-Cap-Coping-24_Max.jpg
